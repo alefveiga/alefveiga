@@ -8,7 +8,7 @@
 💻 Focado em **Front-end (HTML, CSS, JavaScript)**  
 📈 Experiência com **Marketing Digital, Design e Edição de Vídeo**  
 🎯 Buscando **estágio ou vaga júnior em desenvolvimento web**  
-🇧🇷 São Paulo, Brasil  
+🇧🇷 Atibaia - SP, Brasil  
 
 Sou apaixonado por tecnologia e criação de interfaces modernas, responsivas e focadas na experiência do usuário. Estou sempre aprendendo e buscando evoluir como desenvolvedor.
 
