@@ -28,11 +28,13 @@ Sou apaixonado por tecnologia e criação de interfaces modernas, responsivas e 
 
 ### 📫 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alef-veiga-ba9541345" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:alefveigaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
